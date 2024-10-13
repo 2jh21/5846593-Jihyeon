@@ -1,3 +1,4 @@
 #Max Heap Tree {Result Image}
-![](./result.png)
+![실행 결과](./result.PNG)
+
 
