@@ -1,3 +1,3 @@
-#Max Heap Tree {Result Image}
+#Sort By Heap {Result Image}
 
 ![](./6-sortbyheap.PNG)
