@@ -1,11 +1,11 @@
 #Dijkstra {Result Image}
-![](./실행결과_1.PNG)
-![](./실행결과_2.PNG)
 
+![](./result1.PNG)
+![](./result2.PNG)
 
 #Minheap {code Image}
-![](./minheap_구현1.PNG)
-![](./minheap_구현2.PNG)
-![](./minheap_구현3.PNG)
-![](./minheap_구현4.PNG)
 
+![](./minheap1.PNG)
+![](./minheap2.PNG)
+![](./minheap3.PNG)
+![](./minheap4.PNG)
