@@ -1,11 +1,11 @@
 #Dijkstra {Result Image}
 
-![](./result1.PNG)
-![](./result2.PNG)
+![](./result1.png)
+![](./result2.png)
 
 #Minheap {code Image}
 
-![](./minheap1.PNG)
-![](./minheap2.PNG)
-![](./minheap3.PNG)
-![](./minheap4.PNG)
+![](./minheap1.png)
+![](./minheap2.png)
+![](./minheap3.png)
+![](./minheap4.png)
