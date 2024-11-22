@@ -1,3 +1,3 @@
-#Dijkstra {Result Image}
+#sort {Result Image}
 
 ![](./11-result.png)
